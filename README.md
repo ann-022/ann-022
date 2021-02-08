@@ -1,5 +1,4 @@
-# my-first-repo
-Introduction
+## Introduction
 
 Hi 😊 I'm a student at Hunter College studying sociology and social research. I'm taking quantitative research methods and this is my first repository. 
 
